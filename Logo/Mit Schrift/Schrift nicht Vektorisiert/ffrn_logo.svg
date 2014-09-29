@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="2427.25"
+   height="527.36377"
+   id="svg3004"
+   xml:space="preserve"><metadata
+     id="metadata3010"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs3008"><clipPath
+       id="clipPath3018"><path
+         d="m 0,421.891 1941.804,0 L 1941.804,0 0,0 0,421.891 z"
+         id="path3020" /></clipPath><clipPath
+       id="clipPath3032"><path
+         d="m 0,421.891 1941.804,0 L 1941.804,0 0,0 0,421.891 z"
+         id="path3034" /></clipPath></defs><g
+     transform="matrix(1.25,0,0,-1.25,0,527.36375)"
+     id="g3012"><g
+       id="g3014"><g
+         clip-path="url(#clipPath3018)"
+         id="g3016"><text
+           transform="matrix(1,0,0,-1,577.2891,249.8828)"
+           id="text3022"><tspan
+             x="0 110.5229 193.92114 317.39911 375.29205 458.48785 589.25305 714.9577"
+             y="0"
+             id="tspan3024"
+             style="font-size:202.42289734px;font-variant:normal;font-weight:900;font-stretch:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway-Heavy">Freifunk</tspan><tspan
+             x="0 137.64757 263.3522 386.83017 444.72311 570.42773 654.02838 804.63104 928.10901 1044.7046 1160.2881 1282.5515"
+             y="202.4229"
+             id="tspan3026"
+             style="font-size:202.42289734px;font-variant:normal;font-weight:900;font-stretch:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway-Heavy">Rhein-Neckar</tspan></text>
+</g></g><g
+       id="g3028"><g
+         clip-path="url(#clipPath3032)"
+         id="g3030"><g
+           transform="translate(421.8906,210.9453)"
+           id="g3036"><path
+             d="m 0,0 c 0,-116.5 -94.445,-210.945 -210.945,-210.945 -116.5,0 -210.946,94.445 -210.946,210.945 0,116.5 94.446,210.945 210.946,210.945 C -94.445,210.945 0,116.5 0,0"
+             id="path3038"
+             style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none" /></g><g
+           transform="translate(198.1719,210.9062)"
+           id="g3040"><path
+             d="M 0,0 -51.055,51.469 -101.852,-0.266 -50.797,-51.75 0,0 z M 128.492,0.328 77.438,51.813 26.633,0.078 77.672,-51.414 128.492,0.328 z M 77.406,74.453 c 2.492,0 4.86,-1 6.641,-2.765 L 148.25,6.937 c 3.609,-3.64 3.641,-9.468 0.031,-13.117 L 84.414,-71.25 c -1.75,-1.781 -4.141,-2.789 -6.656,-2.805 -2.164,-0.062 -4.891,1 -6.656,2.766 l -57.743,58.242 -57.445,-58.531 c -1.742,-1.774 -4.133,-2.781 -6.656,-2.797 l -0.016,0 c -2.492,0 -4.883,0.992 -6.633,2.766 l -64.218,64.726 c -3.602,3.633 -3.618,9.461 -0.047,13.125 l 63.89,65.071 c 1.735,1.789 4.133,2.804 6.625,2.804 l 0.024,0 c 2.5,0 4.883,-0.984 6.656,-2.773 L 13.281,13.125 70.734,71.656 c 1.743,1.766 4.141,2.782 6.649,2.797 l 0.023,0 z"
+             id="path3042"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" /></g></g></g></g></svg>
